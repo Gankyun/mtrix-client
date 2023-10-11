@@ -1,2 +1,2 @@
 # mtrIX-client
-A matrix route detection and visualization platform
+matrix is route detection and visualization platform, and this is the client part of mtrIX
